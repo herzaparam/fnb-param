@@ -1,8 +1,7 @@
 function App() {
   return (
     <>
-      <h1>'Vite + React'${"qwe"}</h1>
-      <button type="button">{"asd"}</button>
+      <h1 className="text-4xl">Vite + React{"qweqwe"}</h1>
     </>
   );
 }
